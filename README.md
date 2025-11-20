@@ -25,3 +25,7 @@ In this case I use **X11** instead of **Wayland** because X11 has an X server th
     - 90 degrees (2): `0 1 0 -1 0 1 0 0 1`
 -  If there is no warning about Wayland/XWayland, it means the mapping was successfully changed under X11.
 - In your home directory you can create a script to set the coordinates every time the system boots or you log in.
+
+### Directory Path 
+- /home/USERNAME/bin/fix-touch-rotation.sh
+- /home/USERNAME/.config/autostart/fix-touch-rotation.desktop

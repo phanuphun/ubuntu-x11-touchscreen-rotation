@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/USERNAME/bin/fix-touch-rotation.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Fix Touch Rotation
+Comment=Apply touchscreen coordinate transformation at login
